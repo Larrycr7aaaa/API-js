@@ -1,0 +1,338 @@
+[
+  {
+    "name": "Yamal",
+    "rating": 97,
+    "nation": "🇪🇸",
+    "country": "España",
+    "pos": "RW",
+    "type": "World Cup Winners",
+    "year": 2026,
+    "height": "179cm",
+    "foot": "Izq.",
+    "stats": {
+      "SPE": 100,
+      "ACC": 100,
+      "STA": 100,
+      "STR": 91,
+      "CON": 100,
+      "PAS": 100,
+      "SHO": 100,
+      "TAC": 41
+    }
+  },
+  {
+    "name": "Rodrigo",
+    "rating": 97,
+    "nation": "🇪🇸",
+    "country": "España",
+    "pos": "DM",
+    "type": "World Cup Winners",
+    "year": 2026,
+    "height": "190cm",
+    "foot": "Der.",
+    "stats": {
+      "SPE": 85,
+      "ACC": 85,
+      "STA": 100,
+      "STR": 100,
+      "CON": 100,
+      "PAS": 100,
+      "SHO": 80,
+      "TAC": 100
+    }
+  },
+  {
+    "name": "Pau Cubarsí",
+    "rating": 95,
+    "nation": "🇪🇸",
+    "country": "España",
+    "pos": "CB",
+    "type": "World Cup Winners",
+    "year": 2026,
+    "height": "183cm",
+    "foot": "Der.",
+    "stats": {
+      "SPE": 100,
+      "ACC": 100,
+      "STA": 100,
+      "STR": 100,
+      "CON": 86,
+      "PAS": 88,
+      "SHO": 47,
+      "TAC": 100
+    }
+  },
+  {
+    "name": "Marc Cucurella",
+    "rating": 95,
+    "nation": "🇪🇸",
+    "country": "España",
+    "pos": "LB",
+    "type": "World Cup Winners",
+    "year": 2026,
+    "height": "174cm",
+    "foot": "Izq.",
+    "stats": {
+      "SPE": 100,
+      "ACC": 100,
+      "STA": 100,
+      "STR": 90,
+      "CON": 90,
+      "PAS": 100,
+      "SHO": 65,
+      "TAC": 90
+    }
+  },
+  {
+    "name": "Paul Pogba",
+    "rating": 96,
+    "nation": "🇫🇷",
+    "country": "Francia",
+    "pos": "CM",
+    "type": "World Cup Winners",
+    "year": 2018,
+    "height": "191cm",
+    "foot": "Ambos",
+    "stats": {
+      "SPE": 90,
+      "ACC": 90,
+      "STA": 100,
+      "STR": 90,
+      "CON": 100,
+      "PAS": 100,
+      "SHO": 90,
+      "TAC": 80
+    }
+  },
+  {
+    "name": "Emiliano Martínez",
+    "rating": 96,
+    "nation": "🇦🇷",
+    "country": "Argentina",
+    "pos": "GK",
+    "type": "World Cup Winners",
+    "year": 2022,
+    "height": "195cm",
+    "foot": "Izq.",
+    "stats": {
+      "SPE": 61,
+      "ACC": 57,
+      "GKR": 95,
+      "STR": 72,
+      "CON": 63,
+      "PAS": 63,
+      "GKH": 94,
+      "TAC": 46
+    }
+  },
+  {
+    "name": "Enzo Fernández",
+    "rating": 95,
+    "nation": "🇦🇷",
+    "country": "Argentina",
+    "pos": "CM",
+    "type": "World Cup Winners",
+    "year": 2022,
+    "height": "178cm",
+    "foot": "Der.",
+    "stats": {
+      "SPE": 90,
+      "ACC": 90,
+      "STA": 100,
+      "STR": 80,
+      "CON": 100,
+      "PAS": 100,
+      "SHO": 90,
+      "TAC": 77
+    }
+  },
+  {
+    "name": "Benjamin Pavard",
+    "rating": 94,
+    "nation": "🇫🇷",
+    "country": "Francia",
+    "pos": "RB",
+    "type": "World Cup Winners",
+    "year": 2018,
+    "height": "186cm",
+    "foot": "Der.",
+    "stats": {
+      "SPE": 100,
+      "ACC": 100,
+      "STA": 100,
+      "STR": 90,
+      "CON": 83,
+      "PAS": 83,
+      "SHO": 70,
+      "TAC": 90
+    }
+  },
+  {
+    "name": "Lamine Yamal",
+    "rating": 97,
+    "nation": "🇪🇸",
+    "country": "España",
+    "pos": "RW",
+    "type": "World Cup Winners",
+    "year": 2026,
+    "height": "179cm",
+    "foot": "Izq.",
+    "stats": {
+      "SPE": 100,
+      "ACC": 100,
+      "STA": 100,
+      "STR": 91,
+      "CON": 100,
+      "PAS": 100,
+      "SHO": 100,
+      "TAC": 41
+    }
+  },
+  {
+    "name": "Luka Modrić",
+    "rating": 96,
+    "nation": "🇭🇷",
+    "country": "Croacia",
+    "pos": "MC",
+    "type": "Champions",
+    "year": 2018,
+    "height": "172cm",
+    "foot": "Ambi.",
+    "stats": {
+      "SPE": 90,
+      "ACC": 92,
+      "STA": 100,
+      "STR": 79,
+      "CON": 99,
+      "PAS": 100,
+      "SHO": 93,
+      "TAC": 82
+    }
+  },
+  {
+    "name": "N'Golo Kanté",
+    "rating": 95,
+    "nation": "🇫🇷",
+    "country": "Francia",
+    "pos": "DM",
+    "type": "Champions",
+    "year": 2016,
+    "height": "168cm",
+    "foot": "Der.",
+    "stats": {
+      "SPE": 95,
+      "ACC": 97,
+      "STA": 95,
+      "STR": 80,
+      "CON": 90,
+      "PAS": 90,
+      "SHO": 83,
+      "TAC": 100
+    }
+  },
+  {
+    "name": "Ángel Di María",
+    "rating": 95,
+    "nation": "🇦🇷",
+    "country": "Argentina",
+    "pos": "AM",
+    "type": "Champions",
+    "year": 2014,
+    "height": "178cm",
+    "foot": "Izq.",
+    "stats": {
+      "SPE": 100,
+      "ACC": 100,
+      "STA": 100,
+      "STR": 65,
+      "CON": 100,
+      "PAS": 100,
+      "SHO": 100,
+      "TAC": 64
+    }
+  },
+  {
+    "name": "James Rodríguez",
+    "rating": 95,
+    "nation": "🇨🇴",
+    "country": "Colombia",
+    "pos": "AM",
+    "type": "WC Heroes",
+    "year": 2014,
+    "height": "180cm",
+    "foot": "Izq.",
+    "stats": {
+      "SPE": 100,
+      "ACC": 100,
+      "STA": 100,
+      "STR": 75,
+      "CON": 100,
+      "PAS": 100,
+      "SHO": 100,
+      "TAC": 50
+    }
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "rating": 96,
+    "nation": "🇧🇪",
+    "country": "Bélgica",
+    "pos": "AM",
+    "type": "WC Heroes",
+    "year": 2018,
+    "height": "181cm",
+    "foot": "Der.",
+    "stats": {
+      "SPE": 93,
+      "ACC": 95,
+      "STA": 96,
+      "STR": 77,
+      "CON": 100,
+      "PAS": 100,
+      "SHO": 100,
+      "TAC": 74
+    }
+  },
+  {
+    "name": "Keylor Navas",
+    "rating": 95,
+    "nation": "🇨🇷",
+    "country": "Costa Rica",
+    "pos": "GK",
+    "type": "WC Heroes",
+    "year": 2014,
+    "height": "185cm",
+    "foot": "Der.",
+    "stats": {
+      "SPE": 67,
+      "ACC": 67,
+      "GKR": 100,
+      "STR": 54,
+      "CON": 62,
+      "PAS": 60,
+      "GKH": 85,
+      "TAC": 50
+    }
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "rating": 97,
+    "nation": "🇵🇹",
+    "country": "Portugal",
+    "pos": "CF",
+    "type": "WC Heroes",
+    "year": 2018,
+    "height": "187cm",
+    "foot": "Ambos",
+    "stats": {
+      "SPE": 100,
+      "ACC": 100,
+      "STA": 100,
+      "STR": 100,
+      "CON": 100,
+      "PAS": 100,
+      "SHO": 100,
+      "TAC": 41
+    }
+  }
+]
